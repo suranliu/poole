@@ -1,9 +1,9 @@
 # Setup
 title: shuran
 tagline: LIU
-url: https://shuran.com
+url: https://suranliu.github.io/poole/
 paginate: 15
-baseurl: ""
+baseurl: "/poole"
 permalink: pretty
 
 # Gems
